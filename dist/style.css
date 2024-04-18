@@ -1,0 +1,32 @@
+body{
+  background-color:DarkGreen;
+}
+h1{
+  text-align:center;
+  color:Lime;
+}
+.Upper{
+  display:flex;
+  justify-content:center;
+}
+img{
+  border:3px solid green;
+}
+.table{
+  display:flex;
+  justify-content:center;
+}
+td{
+  border:3px solid green;
+  font- size:30px;
+  padding:10px;
+}
+a{
+  text-decoratin:none;
+  color:Lime;
+}
+td:hover{
+ border:5px  solid slateGrey;
+  font-size:34px;
+  padding:10px;
+}
